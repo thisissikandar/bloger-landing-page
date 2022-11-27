@@ -1,0 +1,32 @@
+{
+  "name": "blogr-landing-page-main",
+  "version": "1.0.0",
+  "description": "landing page ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "react-scripts start",
+    "prod": "node index.js"
+  },
+  "author": "Sikandar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
